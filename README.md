@@ -1,5 +1,9 @@
 # cbBTC trend rider — make.fun BTC race, 24 hours live
 
+[![make.fun · btc-race-24h-20261115-0828](https://make.fun/badge/btc-race-24h-20261115-0828.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![rank](https://make.fun/badge/btc-race-24h-20261115-0828/tayankinsey/cbbtc-trend-rider/rank.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![reward](https://make.fun/badge/btc-race-24h-20261115-0828/tayankinsey/cbbtc-trend-rider/reward.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+
 Long-only, one position, no leverage: it waits for a real push (close 1% over its 40-bar EMA
 while that EMA is rising against 30 bars back), then rides with a 0.8% trail, a 2% take
 profit and a 2% stop, and gives up after 480 bars. If nothing has traded by bar 900 it takes
